@@ -12,7 +12,7 @@ To facility the research in the community of 3D face reconstruction and 3D face 
   Usage: Download the "visualize.rar" package at： https://pan.baidu.com/s/1M0sg3eqrtzxxMJqmAzczRw using the password: "h26t".
          Putting the package under the folder "evaluation", extracting it and then run the "nme_for_*" scripts. 
          
-# We add the the test codes of our 2DASL, including:
+# We add our test codes, including:
   1. The 2DASL modles for stage1 and stage2, in the folder "models".
   2. The test codes to obtain 3D vertex for ALFW2000-3D images.
   3. The codes to plot 2D facial landmarks.
