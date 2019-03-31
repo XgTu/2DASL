@@ -7,5 +7,7 @@ To facility the research in the community of 3D face reconstruction and 3D face 
   2. We compare the results of our 2DASL with 3DDFA on all points for the task of dense alignment (both 2D and 3D coordinates) and
      3D face recnostruction.
   3. The Iterative Closest Point (ICP) algorithm, which is used to find the nearest points between two 3D models is included in 
-     our codes. 
+     our codes.
+  Usage: Download the "visualize.rar" package at： https://pan.baidu.com/s/1M0sg3eqrtzxxMJqmAzczRw using the password: h26t
+         Putting the package under the folder "evaluation", extracting it and then run the "nme_for_*" scripts. 
 
