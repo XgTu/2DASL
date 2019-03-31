@@ -16,4 +16,6 @@ To facility the research in the community of 3D face reconstruction and 3D face 
   1. The 2DASL modles for stage1 and stage2, in the folder "models".
   2. The test codes to obtain 3D vertex for ALFW2000-3D images.
   3. The codes to plot 2D facial landmarks.
+  
+  Usage: python-3.6.6, pytorch-0.4.1
 
