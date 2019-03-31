@@ -17,5 +17,5 @@ To facility the research in the community of 3D face reconstruction and 3D face 
   2. The test codes to obtain 3D vertex for ALFW2000-3D images.
   3. The codes to plot 2D facial landmarks.
   
-  Usage: python-3.6.6, pytorch-0.4.1
+  Usage: python-3.6.6, pytorch-0.4.1. Just run the script "main_visualize_plot_4chls.py" in the folder "test_codes".
 
