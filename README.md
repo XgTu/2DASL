@@ -6,6 +6,6 @@ To facility the research in the community of 3D face reconstruction and 3D face 
   1. We compare the results of our 2DASL with PRNet on the sparse 68 key points on both 2D&3D coordinates.  
   2. We compare the results of our 2DASL with 3DDFA on all points for the task of dense alignment (both 2D and 3D coordinates) and
      3D face recnostruction.
-  3. The Iterative Closest Point (ICP) algorithm, which is used to find the nearest points between two 3D model is included in 
+  3. The Iterative Closest Point (ICP) algorithm, which is used to find the nearest points between two 3D models is included in 
      our codes. 
 
