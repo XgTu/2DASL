@@ -2,7 +2,7 @@
 
 To facility the research in the community of 3D face reconstruction and 3D face alignment, we will release our source code, including the pytorch code for testing (training code will be available upon the acceptance of our paper), the matlab code for 3D plot, 3D face rendering and evaluation. The models and demo will be released soon.
 
-# We add the matlab evaluation code with the metric Normalized Mean Error (NME), specifically,
+# We add the matlab evaluation code with the metric Normalized Mean Error (NME), including:
   1. We compare the results of our 2DASL with PRNet on the sparse 68 key points on both 2D&3D coordinates.  
   2. We compare the results of our 2DASL with 3DDFA on all points for the task of dense alignment (both 2D and 3D coordinates) and
      3D face recnostruction.
@@ -11,4 +11,9 @@ To facility the research in the community of 3D face reconstruction and 3D face 
      
   Usage: Download the "visualize.rar" package at： https://pan.baidu.com/s/1M0sg3eqrtzxxMJqmAzczRw using the password: "h26t".
          Putting the package under the folder "evaluation", extracting it and then run the "nme_for_*" scripts. 
+         
+# We add the the test codes of our 2DASL, including:
+  1. The 2DASL modles for stage1 and stage2, in the folder "models".
+  2. The test codes to obtain 3D vertex for ALFW2000-3D images.
+  3. The codes to plot 2D facial landmarks.
 
