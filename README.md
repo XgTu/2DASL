@@ -19,7 +19,7 @@ To facility the research in the community of 3D face reconstruction and 3D face 
   
   Usage: python-3.6.6, pytorch-0.4.1. Just run the script "main_visualize_plot_4chls.py" in the folder "test_codes".
   
-# We add our 3D face rendering in the folder "3D_results_plot", including:
+# We add our 3D face rendering codes in the folder "3D_results_plot", including:
   1. The codes for 3D face rendering, i.e., drawing 3d reconstruction mask.
   2. The codes for plotting dense face alignment.
   3. The codes for writing .obj file, the .obj files could be opend by the software meshlab. 
