@@ -33,11 +33,12 @@ To facility the research in the community of 3D face reconstruction and 3D face 
          
  # Citation
   If you find our code is useful for your research, pls cite our work:
-  
+```  
 @article{tu2019joint,
   title={Joint 3D Face Reconstruction and Dense Face Alignment from A Single Image with 2D-Assisted Self-Supervised Learning},
   author={Tu, Xiaoguang and Zhao, Jian and Jiang, Zihang and Luo, Yao and Xie, Mei and Zhao, Yang and He, Linxiao and Ma, Zheng and Feng, Jiashi},
   journal={arXiv preprint arXiv:1903.09359},
   year={2019}
 }
+```
 
