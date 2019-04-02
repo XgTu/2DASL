@@ -3,6 +3,8 @@ This project is created by Tu Xiaoguang (xguangtu@outlook.com) and Luo Yao (luoy
 
 To facility the research in the community of 3D face reconstruction and 3D face alignment, we release our source code, including the pytorch code for testing (training code will be available upon the acceptance of our paper), the matlab code for 3D plot, 3D face rendering and evaluation. The models and demo will be released soon.
 
+![lmks_res](https://user-images.githubusercontent.com/8948023/55403032-76960580-5587-11e9-926b-4be4d72c3e3f.gif)
+
 # We add the matlab evaluation code with the metric Normalized Mean Error (NME) in the folder "evaluation", including:
   1. We compare the results of our 2DASL with PRNet on the sparse 68 key points on both 2D&3D coordinates.  
   2. We compare the results of our 2DASL with 3DDFA on all points for the task of dense alignment (both 2D and 3D coordinates) and
