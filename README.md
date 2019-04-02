@@ -28,6 +28,9 @@ To facility the research in the community of 3D face reconstruction and 3D face 
   Usage: Download the "visualize.rar" package at： https://pan.baidu.com/s/1M0sg3eqrtzxxMJqmAzczRw using the password: "h26t".
          Putting the package under the folder "3D_results_plot", extracting it and then run the script "test_good_byXgtu.m". 
          
+/home/github/2DASL_github_master/Github-project/ly-result/ly.gif
+         
+         
  # Citation
   If you find our code is useful for your research, pls cite our work:
   
