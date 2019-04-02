@@ -26,7 +26,7 @@ To facility the research in the community of 3D face reconstruction and 3D face 
   3. The codes for writing .obj file, the .obj files could be opend by the software meshlab. 
   
   Usage: Download the "visualize.rar" package at： https://pan.baidu.com/s/1M0sg3eqrtzxxMJqmAzczRw using the password: "h26t".
-         Putting the package under the folder "3D_results_plot", extracting it and then run the "test_good_byXgtu.m*" scripts. 
+         Putting the package under the folder "3D_results_plot", extracting it and then run the script "test_good_byXgtu.m". 
          
  # Citation
   If you find our code is useful for your research, pls cite our work:
