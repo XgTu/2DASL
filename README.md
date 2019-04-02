@@ -11,7 +11,7 @@ To facility the research in the community of 3D face reconstruction and 3D face 
      our codes.
      
   Usage: Download the "visualize.rar" package at： https://pan.baidu.com/s/1M0sg3eqrtzxxMJqmAzczRw using the password: "h26t".
-         Putting the package under the folder "evaluation", extracting it and then run the "nme_for_*" scripts. 
+         Putting the package under the folder "evaluation", extracting it and then run the scripts: "nme_for_*". 
          
 # We add our test codes in the folders "models" and "test_codes", including:
   1. The 2DASL modles for stage1 and stage2, in the folder "models".
