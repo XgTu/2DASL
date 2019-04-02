@@ -4,12 +4,15 @@ This project is created by Tu Xiaoguang (xguangtu@outlook.com) and Luo Yao (luoy
 To facility the research in the community of 3D face reconstruction and 3D face alignment, we release our source code, including the pytorch code for testing (training code will be available upon the acceptance of our paper), the matlab code for 3D plot, 3D face rendering and evaluation. The models and demo will be released soon.
 
 Landmark detection (only 68 landmarks are plotted to show)
+
 ![lmks_res](https://user-images.githubusercontent.com/8948023/55403032-76960580-5587-11e9-926b-4be4d72c3e3f.gif)
 
 3D face reconstruction 
+
 ![3df_res](https://user-images.githubusercontent.com/8948023/55403128-b3fa9300-5587-11e9-92f0-b7733431ddc9.gif)
 
 Dense face alignment
+
 ![dense_res](https://user-images.githubusercontent.com/8948023/55403191-e0161400-5587-11e9-8633-89c8681cf7ed.gif)
 
 
