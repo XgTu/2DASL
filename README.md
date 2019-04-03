@@ -41,7 +41,7 @@ Dense face alignment
          Putting the package under the folder "3D_results_plot", extracting it and then run the script "test_good_byXgtu.m". 
                   
 # Acknowledgement
-Thanks for the authors of 3DDFA and PRNet for making their excellent works publicly available.
+Thanks for the authors of [3DDFA](https://github.com/cleardusk/3DDFA) and PRNet for making their excellent works publicly available.
 
 # Additional example 
 ![xgtu-lmks_res](https://user-images.githubusercontent.com/8948023/55405030-cb3b7f80-558b-11e9-9553-e1858db0e198.gif) 
