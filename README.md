@@ -40,7 +40,9 @@ Dense face alignment
   Usage: Download the "visualize.rar" package at： https://pan.baidu.com/s/1M0sg3eqrtzxxMJqmAzczRw using the password: "h26t".
          Putting the package under the folder "3D_results_plot", extracting it and then run the script "test_good_byXgtu.m". 
                   
-         
+# Acknowledgements
+Thanks for the authors of 3DDFA and PRNet for making their excellent works publicly available.
+
  # Citation
   If you find our code is useful for your research, pls cite our work:
 ```  
