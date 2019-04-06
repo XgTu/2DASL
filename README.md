@@ -23,6 +23,7 @@ Dense face alignment
   3. The Iterative Closest Point (ICP) algorithm, which is used to find the nearest points between two 3D models is included in our code.
      
   Usage: Download the "visualize.rar" package at： https://pan.baidu.com/s/1M0sg3eqrtzxxMJqmAzczRw using the password: "h26t".
+         Or https://drive.google.com/file/d/1414VE7oiusKxeyx0LYZOv042c8DfhFPf/view?usp=sharing
          Putting the package under the folder "evaluation", extracting it and then run the scripts: "nme_for_*". 
          
 # We add our test code in the folders "models" and "test_codes", including:
@@ -38,6 +39,7 @@ Dense face alignment
   3. The code for writing .obj file, the .obj files could be opend by the software meshlab. 
   
   Usage: Download the "visualize.rar" package at： https://pan.baidu.com/s/1M0sg3eqrtzxxMJqmAzczRw using the password: "h26t".
+         Or https://drive.google.com/file/d/1414VE7oiusKxeyx0LYZOv042c8DfhFPf/view?usp=sharing
          Putting the package under the folder "3D_results_plot", extracting it and then run the script "test_good_byXgtu.m". 
                   
 # Acknowledgement
