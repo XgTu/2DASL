@@ -26,7 +26,7 @@ Dense face alignment
          Or download the package here: https://drive.google.com/file/d/1414VE7oiusKxeyx0LYZOv042c8DfhFPf/view?usp=sharing
          Putting the package under the folder "evaluation", extracting it and then run the scripts: "nme_for_*". 
          
-# We add our test code in the folders "models" and "test_codes", including:
+# We add our test code in the folders "models" and "test_codes", including: 
   1. The 2DASL models for stage1 and stage2, in the folder "models".
   2. The test code to obtain 3D vertex for ALFW2000-3D images.
   3. The code to plot 2D facial landmarks.
