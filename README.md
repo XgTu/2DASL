@@ -3,15 +3,9 @@ This project is created by Tu Xiaoguang (xguangtu@outlook.com) and Luo Yao (luoy
 
 To facility the research in the community of 3D face reconstruction and 3D face alignment, we release our source code, including the pytorch code for testing (training code will be available upon the acceptance of our paper), the matlab code for 3D plot, 3D face rendering and evaluation. 
 
-Landmark detection (left: only 68 landmarks are plotted to show) and 3D face reconstruction (right)
+Landmark detection (left: only 68 landmarks are plotted to show), 3D face reconstruction (middle) and Dense face alignment
 
-<img width="300" height="200" src="https://user-images.githubusercontent.com/8948023/55403032-76960580-5587-11e9-926b-4be4d72c3e3f.gif"/>   <img width="300" height="200" src="https://user-images.githubusercontent.com/8948023/55403128-b3fa9300-5587-11e9-92f0-b7733431ddc9.gif"/>
-
-
-Dense face alignment
-
-![dense_res](https://user-images.githubusercontent.com/8948023/55403191-e0161400-5587-11e9-8633-89c8681cf7ed.gif)
-
+<img width="350" height="200" src="https://user-images.githubusercontent.com/8948023/55403032-76960580-5587-11e9-926b-4be4d72c3e3f.gif"/>   <img width="350" height="200" src="https://user-images.githubusercontent.com/8948023/55403128-b3fa9300-5587-11e9-92f0-b7733431ddc9.gif"/>  <img width="350" height="200" src="https://user-images.githubusercontent.com/8948023/55403191-e0161400-5587-11e9-8633-89c8681cf7ed.gif"/>
 
 # We add the matlab evaluation code with the metric Normalized Mean Error (NME) in the folder "evaluation", including:
   1. We compare the results of our 2DASL with PRNet on the sparse 68 key points on both 2D&3D coordinates.  
