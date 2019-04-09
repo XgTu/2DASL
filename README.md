@@ -5,7 +5,7 @@ To facility the research in the community of 3D face reconstruction and 3D face 
 
 Landmark detection (left: only 68 landmarks are plotted to show) and 3D face reconstruction (right)
 
-<img width="250" height="200" src="https://user-images.githubusercontent.com/8948023/55403032-76960580-5587-11e9-926b-4be4d72c3e3f.gif"/>   <img width="250" height="200" src="https://user-images.githubusercontent.com/8948023/55403128-b3fa9300-5587-11e9-92f0-b7733431ddc9.gif"/>
+<img width="300" height="200" src="https://user-images.githubusercontent.com/8948023/55403032-76960580-5587-11e9-926b-4be4d72c3e3f.gif"/>   <img width="300" height="200" src="https://user-images.githubusercontent.com/8948023/55403128-b3fa9300-5587-11e9-92f0-b7733431ddc9.gif"/>
 
 
 Dense face alignment
