@@ -11,7 +11,7 @@ Face swapping
 
    <img width="160" height="160" src="https://user-images.githubusercontent.com/8948023/55851786-ca5aad00-5b8c-11e9-9644-7614ba173a05.jpg"/> <img width="290" height="160" src="https://user-images.githubusercontent.com/8948023/55784056-549a0700-5ae2-11e9-8922-e82a8e3287cc.gif"/> <img width="290" height="160" src="https://user-images.githubusercontent.com/8948023/55784118-78f5e380-5ae2-11e9-9c3b-92f535b3def4.gif"/>
    
-Face expression retargeting
+Facial expression retargeting
 
 <img width="300" height="300" src="https://user-images.githubusercontent.com/8948023/55851861-2ae9ea00-5b8d-11e9-99e1-656be97aead2.jpg"/>   <img width="300" height="300" src="https://user-images.githubusercontent.com/8948023/55851942-769c9380-5b8d-11e9-8d0c-2c3c5755be3d.gif"/>  
 
