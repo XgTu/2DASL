@@ -13,7 +13,7 @@ Face swapping
    
 Face expression retargeting
 
-<img width="260" height="260" src="https://user-images.githubusercontent.com/8948023/55851861-2ae9ea00-5b8d-11e9-99e1-656be97aead2.jpg"/>   <img width="260" height="60" src="https://user-images.githubusercontent.com/8948023/55851942-769c9380-5b8d-11e9-8d0c-2c3c5755be3d.gif"/>  
+<img width="300" height="300" src="https://user-images.githubusercontent.com/8948023/55851861-2ae9ea00-5b8d-11e9-99e1-656be97aead2.jpg"/>   <img width="300" height="300" src="https://user-images.githubusercontent.com/8948023/55851942-769c9380-5b8d-11e9-8d0c-2c3c5755be3d.gif"/>  
 
 
 # We add the matlab evaluation code with the metric Normalized Mean Error (NME) in the folder "evaluation", including:
