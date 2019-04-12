@@ -20,6 +20,10 @@ Facial expression retargeting
 
 <img width="800" height="380" src="https://user-images.githubusercontent.com/8948023/56006577-e59df780-5d07-11e9-96a5-433b8af38236.jpg"/> 
 
+Comparison with AFLW2000-3D groundth (Green: landmarks predicted by our 2DASL. Red: ground truth of AFLW2000-3D)
+<img width="800" height="380" src="https://user-images.githubusercontent.com/8948023/56006676-71178880-5d08-11e9-8a35-ea096e2f3634.png"/> 
+
+
 
 
 # We add the matlab evaluation code with the metric Normalized Mean Error (NME) in the folder "evaluation", including:
