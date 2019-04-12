@@ -18,7 +18,8 @@ Facial expression retargeting
 # Visual results
 3D face reconstruction
 
-<img width="600" height="600" src="https://user-images.githubusercontent.com/8948023/56006479-7f18d980-5d07-11e9-8aa4-7cffe83f7475.png"/> 
+<img width="500" height="1000" src="https://user-images.githubusercontent.com/8948023/56006577-e59df780-5d07-11e9-96a5-433b8af38236.jpg"/> 
+
 
 
 # We add the matlab evaluation code with the metric Normalized Mean Error (NME) in the folder "evaluation", including:
