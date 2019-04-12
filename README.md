@@ -18,7 +18,7 @@ Facial expression retargeting
 # Visual results
 3D face reconstruction
 
-<img width="500" height="1000" src="https://user-images.githubusercontent.com/8948023/56006577-e59df780-5d07-11e9-96a5-433b8af38236.jpg"/> 
+<img width="1000" height="500" src="https://user-images.githubusercontent.com/8948023/56006577-e59df780-5d07-11e9-96a5-433b8af38236.jpg"/> 
 
 
 
