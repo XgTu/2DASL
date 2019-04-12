@@ -16,7 +16,7 @@ Facial expression retargeting
 <img width="300" height="300" src="https://user-images.githubusercontent.com/8948023/55851861-2ae9ea00-5b8d-11e9-99e1-656be97aead2.jpg"/>   <img width="300" height="300" src="https://user-images.githubusercontent.com/8948023/55851942-769c9380-5b8d-11e9-8d0c-2c3c5755be3d.gif"/>  
 
 # Visual results
-3D face reconstruction
+3D face reconstruction & face alignment
 
 <img width="800" height="380" src="https://user-images.githubusercontent.com/8948023/56006577-e59df780-5d07-11e9-96a5-433b8af38236.jpg"/> 
 
