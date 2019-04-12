@@ -21,7 +21,7 @@ Facial expression retargeting
 <img width="800" height="380" src="https://user-images.githubusercontent.com/8948023/56006577-e59df780-5d07-11e9-96a5-433b8af38236.jpg"/> 
 
 Comparison with AFLW2000-3D groundth (Green: landmarks predicted by our 2DASL. Red: ground truth of AFLW2000-3D)
-<img width="800" height="180" src="https://user-images.githubusercontent.com/8948023/56006676-71178880-5d08-11e9-8a35-ea096e2f3634.png"/> 
+<img width="800" height="250" src="https://user-images.githubusercontent.com/8948023/56006676-71178880-5d08-11e9-8a35-ea096e2f3634.png"/> 
 
 
 
