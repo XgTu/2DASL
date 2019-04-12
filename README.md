@@ -24,7 +24,12 @@ Comparison with AFLW2000-3D groundth (Green: landmarks predicted by our 2DASL. R
 <img width="800" height="250" src="https://user-images.githubusercontent.com/8948023/56006676-71178880-5d08-11e9-8a35-ea096e2f3634.png"/> 
 
 # Visual results
+Performance comparison on AFLW2000-3D (68 2D landmarks) and AFLW-LFPA (34 2D visible landmarks). The NME (%) for faces with different yaw angles are reported.
 
+<img width="400" height="200" src="https://user-images.githubusercontent.com/8948023/56006880-36622000-5d09-11e9-9465-8d52e3433d5f.png"/> 
+
+Error Distribution Curves (EDC) of face alignment results on AFLW2000-3D.
+<img width="800" height="150" src="https://user-images.githubusercontent.com/8948023/56006889-3f52f180-5d09-11e9-914e-301ed7a1e0a6.png"/> 
 
 
 # We add the matlab evaluation code with the metric Normalized Mean Error (NME) in the folder "evaluation", including:
