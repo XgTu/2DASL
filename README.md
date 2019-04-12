@@ -15,7 +15,7 @@ Facial expression retargeting
 
 <img width="200" height="200" src="https://user-images.githubusercontent.com/8948023/55851861-2ae9ea00-5b8d-11e9-99e1-656be97aead2.jpg"/>   <img width="200" height="200" src="https://user-images.githubusercontent.com/8948023/55851942-769c9380-5b8d-11e9-8d0c-2c3c5755be3d.gif"/>  
 
-# Evaluation results
+# Visual results
 3D face reconstruction & face alignment
 
 <img width="800" height="380" src="https://user-images.githubusercontent.com/8948023/56006577-e59df780-5d07-11e9-96a5-433b8af38236.jpg"/> 
@@ -23,7 +23,7 @@ Facial expression retargeting
 Comparison with AFLW2000-3D groundth (Green: landmarks predicted by our 2DASL. Red: ground truth of AFLW2000-3D)
 <img width="800" height="250" src="https://user-images.githubusercontent.com/8948023/56006676-71178880-5d08-11e9-8a35-ea096e2f3634.png"/> 
 
-# Visual results
+# Evaluation results
 Performance comparison on AFLW2000-3D (68 2D landmarks) and AFLW-LFPA (34 2D visible landmarks). The NME (%) for faces with different yaw angles are reported.
 
 <img width="400" height="160" src="https://user-images.githubusercontent.com/8948023/56006880-36622000-5d09-11e9-9465-8d52e3433d5f.png"/> 
