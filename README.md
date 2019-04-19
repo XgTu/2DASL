@@ -8,7 +8,8 @@ Landmark detection (left: only 68 landmarks are plotted to show), 3D face recons
 <img width="290" height="160" src="https://user-images.githubusercontent.com/8948023/55403032-76960580-5587-11e9-926b-4be4d72c3e3f.gif"/>   <img width="290" height="160" src="https://user-images.githubusercontent.com/8948023/55403128-b3fa9300-5587-11e9-92f0-b7733431ddc9.gif"/>  <img width="290" height="160" src="https://user-images.githubusercontent.com/8948023/55403191-e0161400-5587-11e9-8633-89c8681cf7ed.gif"/>
 
 Face swapping
-   <img width="160" height="160" src="https://user-images.githubusercontent.com/8948023/55851786-ca5aad00-5b8c-11e9-9644-7614ba173a05.jpg"/> <img width="290" height="160" src="https://user-images.githubusercontent.com/8948023/55784056-549a0700-5ae2-11e9-8922-e82a8e3287cc.gif"/> <img width="290" height="160" src="https://user-images.githubusercontent.com/8948023/55784118-78f5e380-5ae2-11e9-9c3b-92f535b3def4.gif"/>
+
+<img width="160" height="160" src="https://user-images.githubusercontent.com/8948023/55851786-ca5aad00-5b8c-11e9-9644-7614ba173a05.jpg"/> <img width="290" height="160" src="https://user-images.githubusercontent.com/8948023/55784056-549a0700-5ae2-11e9-8922-e82a8e3287cc.gif"/> <img width="290" height="160" src="https://user-images.githubusercontent.com/8948023/55784118-78f5e380-5ae2-11e9-9c3b-92f535b3def4.gif"/>
    
 Facial expression retargeting
 
