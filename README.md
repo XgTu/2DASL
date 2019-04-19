@@ -33,7 +33,7 @@ Error Distribution Curves (EDC) of face alignment results on AFLW2000-3D.
 
 # Evaluation results (3d face reconstruction)
 Comparisons on AFLW2000-3D 
-<img width="800" height="250" src="https://user-images.githubusercontent.com/8948023/56006676-71178880-5d08-11e9-8a35-ea096e2f3634.png"/> 
+<img width="800" height="250" src="https://user-images.githubusercontent.com/8948023/56410192-ce827b00-62ae-11e9-8419-6aff49da33ce.png"/> 
 
 # We add the matlab evaluation code with the metric Normalized Mean Error (NME) in the folder "evaluation", including:
   1. We compare the results of our 2DASL with PRNet on the sparse 68 key points on both 2D&3D coordinates.  
