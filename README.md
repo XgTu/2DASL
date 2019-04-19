@@ -5,7 +5,7 @@ To facility the research in the community of 3D face reconstruction and 3D face 
 
 Landmark detection (left: only 68 landmarks are plotted to show), 3D face reconstruction (middle) and Dense face alignment (right)
 
-<img width="290" height="160" src="https://user-images.githubusercontent.com/8948023/55403032-76960580-5587-11e9-926b-4be4d72c3e3f.gif"/>   <img width="290" height="160" src="https://user-images.githubusercontent.com/8948023/55403128-b3fa9300-5587-11e9-92f0-b7733431ddc9.gif"/>  <img width="290" height="160" src="https://user-images.githubusercontent.com/8948023/55403191-e0161400-5587-11e9-8633-89c8681cf7ed.gif"/>
+<img width="280" height="160" src="https://user-images.githubusercontent.com/8948023/55403032-76960580-5587-11e9-926b-4be4d72c3e3f.gif"/>   <img width="280" height="160" src="https://user-images.githubusercontent.com/8948023/55403128-b3fa9300-5587-11e9-92f0-b7733431ddc9.gif"/>  <img width="280" height="160" src="https://user-images.githubusercontent.com/8948023/55403191-e0161400-5587-11e9-8633-89c8681cf7ed.gif"/>
 
 Face swapping
 
@@ -35,7 +35,7 @@ Error Distribution Curves (EDC) of face alignment results on AFLW2000-3D.
 Comparisons on AFLW2000-3D 
 <img width="800" height="300" src="https://user-images.githubusercontent.com/8948023/56410192-ce827b00-62ae-11e9-8419-6aff49da33ce.png"/> 
 
-<img width="160" height="160" src="https://user-images.githubusercontent.com/8948023/55851786-ca5aad00-5b8c-11e9-9644-7614ba173a05.jpg"/> <img width="140" height="160" src="https://user-images.githubusercontent.com/8948023/56411355-068bbd00-62b3-11e9-92eb-63ffeea9e961.png"/> <img width="150" height="160" src="https://user-images.githubusercontent.com/8948023/56411353-068bbd00-62b3-11e9-9b7d-46d68489d147.png"/>  <img width="150" height="160" src="https://user-images.githubusercontent.com/8948023/56411354-068bbd00-62b3-11e9-8cfc-c34561e51c38.png"/> 
+<img width="160" height="160" src="https://user-images.githubusercontent.com/8948023/55851786-ca5aad00-5b8c-11e9-9644-7614ba173a05.jpg"/> <img width="140" height="160" src="https://user-images.githubusercontent.com/8948023/56411355-068bbd00-62b3-11e9-92eb-63ffeea9e961.png"/> <img width="150" height="160" src="https://user-images.githubusercontent.com/8948023/56411353-068bbd00-62b3-11e9-9b7d-46d68489d147.png"/> 
 
 # We add the matlab evaluation code with the metric Normalized Mean Error (NME) in the folder "evaluation", including:
   1. We compare the results of our 2DASL with PRNet on the sparse 68 key points on both 2D&3D coordinates.  
