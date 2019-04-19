@@ -64,7 +64,7 @@ Thanks for the authors of [3DDFA](https://github.com/cleardusk/3DDFA) and [PRNet
 # Additional example 
 // ![xgtu-lmks_res](https://user-images.githubusercontent.com/8948023/55405030-cb3b7f80-558b-11e9-9553-e1858db0e198.gif) 
 
- # Citation
+ # Citat
   If you find our code is useful for your research, pls cite our work:
 ```  
 @article{tu2019joint,
