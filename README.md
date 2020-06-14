@@ -43,9 +43,7 @@ Comparisons on AFLW2000-3D
      3D face recnostruction.
   3. The Iterative Closest Point (ICP) algorithm, which is used to find the nearest points between two 3D models is included in our code.
      
-  Usage: Download the "visualize.rar" package at： https://pan.baidu.com/s/1M0sg3eqrtzxxMJqmAzczRw using the password: "h26t".
-         Or download the package here: https://drive.google.com/file/d/1414VE7oiusKxeyx0LYZOv042c8DfhFPf/view?usp=sharing
-         Putting the package under the folder "evaluation", extracting it and then run the scripts: "nme_for_*". 
+  Usage: Download the "visualize.rar" package at： https://pan.baidu.com/s/1jazeore9M_4khk50Dz_Jlg using the password: "o7ji".
          
 # We add our test code in the folders "models" and "test_codes", including: 
   1. The 2DASL models for stage1 and stage2, in the folder "models".
